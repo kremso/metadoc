@@ -1,4 +1,4 @@
-Generates Oracle database schema documentation. Example of real-world [serenity][http://github.com/kremso/serenity] usage.
+Generates Oracle database schema documentation. Example of real-world [serenity](http://github.com/kremso/serenity) usage.
 
 Installation:
 
